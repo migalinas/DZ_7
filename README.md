@@ -1,9 +1,9 @@
 # Как использовать CMake для запуска проекта.
 ## 1.Загружаем проект
-``` git clone https://github.com/migalinas/DZ_6.git ```
+``` git clone https://github.com/migalinas/DZ_7.git ```
 ## 2.Используем следующие команды:
 ### 1) 
-``` cd DZ_6```
+``` cd DZ_7```
 ### 2)
 ```mkdir build```
 ### 3)
